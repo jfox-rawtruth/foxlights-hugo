@@ -1,4 +1,4 @@
-## How to connect to your lamp's built in wifi access point with an Android device.
+## How to connect to your lamp's built in Wi-Fi access point with an Android device.
 
 ### Step 1: Open Settings
 

@@ -31,6 +31,10 @@ Your device will then automatically open a pop-up or redirect to a page like thi
 
 ### Step 7: Next Steps
 
+If you want to connect your lamp to your Wi-Fi network then click [here.](/wled_config/)
+
+If you want control your lamp directly then tap where it says 'TO THE CONTROLS', and click [here.](/wled_controls/)
+
 ---
 
 _Note: The layout may vary slightly depending on your iOS version, but the steps are essentially the same._
