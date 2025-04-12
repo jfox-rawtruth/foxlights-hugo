@@ -35,7 +35,7 @@ You will be then see something like this:
 
 ### Step 8: Next Steps
 
-If you want to connect your lamp to your Wi-Fi network then click [here.](/wled_config/)
+If you want to connect your lamp to your Wi-Fi network then tap where it says, 'WIFI SETTINGS', and then click [here.](/wifi_settings/)
 
 If you want control your lamp directly then tap where it says 'TO THE CONTROLS', and click [here.](/wled_controls/)
 
