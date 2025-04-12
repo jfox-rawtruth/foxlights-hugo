@@ -1,0 +1,52 @@
+---
+title: 'Fox Lights'
+baseURL: 'https://jfox-rawtruth.github.io/'
+theme: 'zen'
+languageCode: 'en-GB'
+defaultContentLanguage: 'en'
+pluralizelisttitles: false
+removePathAccents: true
+
+caches:
+  images:
+    dir: :cacheDir/images
+
+outputFormats:
+  SearchIndex:
+    mediaType: 'application/json'
+    baseName: 'searchindex'
+    isPlainText: true
+    notAlternative: true
+
+outputs:
+  home: ['HTML', 'RSS', 'JSON', 'SearchIndex']
+  section: ['HTML', 'RSS', 'JSON']
+
+params:
+  contact: ''
+  description: ''
+  dateformat: 'January 2, 2010'
+  favicon: ''
+  feedlinks: false
+  icon: ''
+  image: ''
+  imageMaxWidth: 400
+  logo: false
+  logoWidth: 64
+  mobileMenu: true
+  poweredby: false
+  sidebar: false
+  submitted: true
+  author:
+    name: 'Jeff Fox'
+    url: ''
+    avatar: ''
+
+menus:
+  main:
+    - name: Home
+      pageRef: /
+      weight: 10
+    - name: Help
+      pageRef: /help
+      weight: 20

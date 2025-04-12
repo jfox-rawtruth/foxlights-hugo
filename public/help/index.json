@@ -1,0 +1,16 @@
+
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "Fox Lights",
+    "description": "Recent content on Fox Lights",
+    "home_page_url": "http://localhost:1313/",
+    "feed_url": "http://localhost:1313/help/index.json",
+    "language": "en-GB",
+    "authors": [
+        {
+            "name": "Jeff Fox"
+        }
+    ],
+    "items": [
+        ]
+}
